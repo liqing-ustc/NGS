@@ -1,6 +1,10 @@
 # Neural-Grammar-Symbolic Learning with Back-Search
 Pytorch implementation for Neural-Grammar-Symbolic Learning with Back-Search (NGS-BS) on the Handwritten Formula Recognition task.
 
+<div align="center">
+  <img src="RL_vs_BS.png" width="750px">
+</div>
+
 ### Publication
 **[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning]()**
 <br>
