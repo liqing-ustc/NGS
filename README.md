@@ -1,8 +1,30 @@
-# Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning
+# Neural-Grammar-Symbolic Learning with Back-Search
 Pytorch implementation for Neural-Grammar-Symbolic Learning with Back-Search (NGS-BS) on the Handwritten Formula Recognition task.
 
+### Publication
+**[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning]()**
+<br>
+[Qing Li](http://liqing-ustc.github.io/), 
+[Siyuan Huang](http://siyuanhuang.com/), 
+[Yining Hong](https://evelinehong.github.io/), 
+[Yixin Chen](https://yixchen.github.io/), 
+[Ying Nian Wu](http://www.stat.ucla.edu/~ywu/), and
+[Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/)
+<br>
+In International Conference on Machine Learning (*ICML*) 2020.
+<br>
+
+```
+@inproceedings{li2020ngs,
+  title={Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning},
+  author={Li, Qing and Huang, Siyuan and Hong, Yining and Chen, Yixin and Wu, Ying Nian and Zhu, Song-Chun.},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2020}
+}
+```
+
 ## Prerequisites
-* Linux Ubuntu 16.04
+* Ubuntu 16.04
 * Python 3.7
 * NVIDIA TITAN RTX + CUDA 10.0
 * PyTorch 1.4.0
