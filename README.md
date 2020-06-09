@@ -24,7 +24,7 @@ In International Conference on Machine Learning (*ICML*) 2020.
 ```
 
 ## Prerequisites
-* Linux Ubuntu 16.04
+* Ubuntu 16.04
 * Python 3.7
 * NVIDIA TITAN RTX + CUDA 10.0
 * PyTorch 1.4.0
