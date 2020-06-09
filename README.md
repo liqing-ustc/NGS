@@ -15,7 +15,7 @@ In International Conference on Machine Learning (*ICML*) 2020.
 <br>
 
 ```
-@inproceedings{li2020NGS,
+@inproceedings{li2020ngs,
   title={Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning},
   author={Li, Qing and Huang, Siyuan and Hong, Yining and Chen, Yixin and Wu, Ying Nian and Zhu, Song-Chun.},
   booktitle={International Conference on Machine Learning (ICML)},
