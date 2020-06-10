@@ -1,5 +1,9 @@
-# Neural-Grammar-Symbolic Learning with Back-Search
+<p align="center">
+<b> Closed Loop Neural-Symbolic Learning </b>
+</p>
 Pytorch implementation for Neural-Grammar-Symbolic Learning with Back-Search (NGS-BS) on the Handwritten Formula Recognition task.
+
+
 
 <div align="center">
   <img src="RL_vs_BS.png" width="750px">
