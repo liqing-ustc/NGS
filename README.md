@@ -6,7 +6,7 @@ Pytorch implementation for Neural-Grammar-Symbolic Learning with Back-Search (NG
 </div>
 
 ### Publication
-**[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning]()**
+**[Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning](https://liqing-ustc.github.io/NGS/)**
 <br>
 [Qing Li](http://liqing-ustc.github.io/), 
 [Siyuan Huang](http://siyuanhuang.com/), 
